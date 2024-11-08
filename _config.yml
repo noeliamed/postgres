@@ -4,3 +4,5 @@ baseurl: "postgres"
 url: "https://noeliamedithub.io"
 theme: jekyll-theme minimal
 markdown: krandown
+
+remote_theme: pmarsceill/just-the-docs 

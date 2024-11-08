@@ -65,7 +65,7 @@ CREATE TABLE clientes (
 ## Inserta datos:
 Inserta datos en la tabla recién creada:
 ```
-INSERT INTO equipos (nif, nombre)
+INSERT INTO clients (nif, nombre)
 VALUES ('12345678A', 'Pepe');
 ```
 ## Consulta:

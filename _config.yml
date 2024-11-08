@@ -1,8 +1,1 @@
-title: "Instalación PostgreSQL en Debian 12"
-desciption: "Guía paso a paso para instalar y configurar POstgreSQL en Debian 12"
-baseurl: "postgres"
-url: "https://noeliamedithub.io"
-theme: jekyll-theme minimal
-markdown: krandown
 
-remote_theme: pmarsceill/just-the-docs 
